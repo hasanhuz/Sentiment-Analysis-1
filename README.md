@@ -7,6 +7,7 @@ and help it to improve the products/services,can be of significant.
 Ultimately, this can contribute to improve the overall quality of
 products/service offered. We have identified
 some potential strengths and weaknesses of a business. For example, Figure 1 shows an example of a business good/bad/avergae features that can benefit businesses to pay attention for customers satisfication.
+![myimage-alt-tag](https://github.com/hasanhuz/Sentiment-Analysis-Project/blob/master/fig1.PNG)
 
 
 # Team members:
